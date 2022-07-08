@@ -9,3 +9,24 @@ Goals for 2022:
 - [x] Learn Java
 - [ ] Learn 6502 ASM
 - [ ] Finish TBOI Mod
+
+
+## PROJECTS:
+
+### The Binding of Lucia Mod:
+far too much to write here, check [here](https://github.com/saturnaliam/Binding-of-Lucia/issues) for my todo list!
+
+### Conlang Creator:
+  - [x] Create flags for fast-gen in console
+  - [ ] Make tables for IPA
+  - [x] Get prompts for conlangs
+  - [x] Language family generator
+  - [x] Writing system generator
+  - [x] Language type generator
+  - [ ] Generate language fully
+
+### The Binding of Isaac Marks Tracker
+  - [x] Brainstorm execution
+  - [ ] Collect images
+  - [ ] Start writing text
+  - [ ] Design CSS
